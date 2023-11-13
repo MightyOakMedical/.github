@@ -13,4 +13,4 @@ the ability to visualize and understand the patient’s spinal anatomy in 3D. Ou
 platform is paired with 3D printed patient-specific navigation guides to achieve a choreographed, efficient and safer surgery.
 We are the industry leader in making complex spine surgery safer, through a thoroughly personalized approach.
 
-![This is an alt text.](https://mightyoakmedical.com/assets/Logo/MightyOakMedical_Rebrand_Logo_-_Stacked_Website_720x124.png "This is a sample image.")
+<img src="/profile/MOM Secondary Master Logo (Green Logo, Gray Test).png">
